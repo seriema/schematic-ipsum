@@ -14,7 +14,8 @@
     "winston": "0.6.x",
     "node-uuid": "1.4.x",
     "connect-xcors": "0.5.x",
-    "underscore": "1.4.x"
+    "underscore": "1.4.x",
+		"schematic-ipsum": "0.1.x"
   },
   "devDependencies": {
     "quest": "0.1.x",

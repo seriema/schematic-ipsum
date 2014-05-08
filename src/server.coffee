@@ -6,7 +6,7 @@ expressWinston = require "express-winston"
 async = require "async"
 cors = require "connect-xcors"
 
-schema = require "./schema"
+schema = require "schematic-ipsum"
 
 app = express()
 
